@@ -1,0 +1,12 @@
+myClasses\Bill.class
+myClasses\FilePaths.class
+myClasses\Contract.class
+myClasses\FileHandler.class
+myClasses\Operator.class
+myClasses\Person.class
+com\mycompany\electricitybillingsystem\ElectricityBillingSystem.class
+myClasses\Admin.class
+myClasses\Payment.class
+.netbeans_automatic_build
+myClasses\Contract2.class
+myClasses\Customer.class
